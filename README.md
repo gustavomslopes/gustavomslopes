@@ -16,6 +16,11 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/gustavomslopes?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/gustavomslopes">
+</picture>
+---
 
 ### 📫 Contato
 

@@ -26,12 +26,12 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gustavomslopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true">
-    <img height="175" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gustavomslopes&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=gustavomslopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true">
+    <img width="48%" alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=gustavomslopes&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=gustavomslopes&theme=tokyonight&hide_border=true">
-    <img height="175" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=gustavomslopes&theme=default&hide_border=true">
+    <img width="48%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=gustavomslopes&theme=default&hide_border=true">
   </picture>
 </div>
 
@@ -40,7 +40,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/gustavomslopes?theme=dark">
-    <img alt="Most Used Languages" src="https://github-used-languages.vercel.app/gustavomslopes">
+    <img width="60%" alt="Most Used Languages" src="https://github-used-languages.vercel.app/gustavomslopes">
   </picture>
 </div>
 
@@ -49,7 +49,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gustavomslopes&theme=tokyo-night&hide_border=true&area=true">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gustavomslopes&theme=github-light&hide_border=true&area=true">
+    <img width="97%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gustavomslopes&theme=github-light&hide_border=true&area=true">
   </picture>
 </div>
 
